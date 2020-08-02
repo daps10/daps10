@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/daps10/daps10.svg)](http://hits.dwyl.com/daps10/daps10)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 <!--
 **daps10/daps10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
