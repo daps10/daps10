@@ -35,3 +35,6 @@ I am Darpan Chavhan, a **Senior Software Engineer** based out of India working a
 ![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daps10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daps10&hide=TeX&layout=compact&theme=tokyonight)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daps10.daps10)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daps10&repo=iNotebook)](https://github.com/daps10/iNotebook)
+
