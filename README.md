@@ -32,7 +32,7 @@ I am Darpan Chavhan, a **Senior Software Engineer** based out of India working a
 
 ## Stats
 
-![Github Stats]([![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daps10)](https://github.com/daps10/github-readme-stats))
+![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daps10&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daps10&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daps10.daps10)
