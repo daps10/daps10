@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am Darpan Chavhan, a **Senior Software Engineer** based out of India working at [TCS](https://www.tcs.com/). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Backend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Darpan Chavhan, a **Senior Software Engineer** based out of India working at [TCS](https://www.tcs.com/). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Backend Engineer. 
+
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-chavhan-4044a6143/)
 
@@ -30,9 +34,10 @@ I am Darpan Chavhan, a **Senior Software Engineer** based out of India working a
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## Stats
+📈 My GitHub stats
 
 ![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daps10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daps10&hide=TeX&layout=compact&theme=tokyonight)
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daps10.daps10)
 
