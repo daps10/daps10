@@ -34,10 +34,9 @@ I learned a lot from the open-source community and i love how collaboration and 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-📈 My GitHub stats
+---
+### :fire: My GitHub stats :
 
 ![Darpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=daps10&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daps10&hide=TeX&layout=compact&theme=tokyonight)
-<br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daps10.daps10)
 
