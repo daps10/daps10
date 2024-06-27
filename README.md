@@ -6,7 +6,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-chavhan-4044a6143/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpan-chauhan-4044a6143/)
 
 ## Skills
 
